@@ -1,0 +1,11 @@
+1. Apa yang dimaksud dengan Preprocessor
+2. Sebutkan macam-macam preprocessor
+3. Buat program dalam c++ yang menggunakan preprocessor macro
+4. Buat program dalam c++ yang menerapkan preprocessor macro fungsi
+5. Sebutkan macam-macam penyertaan file header
+6. Buat program dalam c++ yang menerapkan preprocessor #include “file” 
+7. Buat program dalam c++ yang menerapkan preprocessor #include 
+8. Buat program dalam c++ yang menerapkan preprocessor kompilasi bersyarat
+9. Buat program dalam c++ yang menerapkan preprocessor #line dan #pragma
+10. Buat program dalam c++ yang menerapkan preprocessor #error
+11. Buat program dalam c++ yang menerapkan preprocessor macro bawaan
